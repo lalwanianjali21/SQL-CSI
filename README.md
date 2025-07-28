@@ -33,7 +33,7 @@ Exposure to real-time business-style problem solving using SQL
 
 # About Me
 
-I’m Anjali Lalwani, a B.Tech CSE-AI student passionate about data, SQL, and solving meaningful problems through code and logic.
+I’m Anjali Lalwani, A Final Year B.Tech CSE-AI student passionate about data, SQL, and solving meaningful problems through code and logic.
 
 # Contact 
 
